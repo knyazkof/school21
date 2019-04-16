@@ -86,3 +86,65 @@ git config --global user.email "knyazkof.alexey@gmail.com"
 git remote add origin "https://github.com/knyazkof/school21.git"
 git init
 git remote add origin "https://github.com/knyazkof/school21.git"
+git add .
+git commit -m "mario incorrect"
+git status
+git log
+git push
+branch
+git branch
+git checkout -b alina
+git branch
+git log
+git push
+git push -u origin alina
+ls -l
+vim mario.c
+make mario
+vim mario.c
+make mario
+./mario 
+vim mario.c
+make mario
+./mario 
+./mario 2
+vim mario.c
+make mario
+./mario 
+./mario 2
+./mario 
+vim mario.c
+make mario
+vim mario.c
+make mario
+./mario 
+vim mario.c
+./mario 
+vim mario.c
+make mario
+./mario 
+vim mario.c
+make mario
+./mario 
+vim mario
+vim mario.c
+make mario
+./mario 
+./mario 1
+./mario 
+./mario 9
+./mario 
+ls -l
+git log
+git status
+git add .
+git commit -m "mario fix"
+git config --global user.name knyazkof
+git config --global user.name "knyazkof"
+git config --global user.email "knyazkof.alexey@gmail.com"
+git remote add origin https://github.com/knyazkof/school21.git
+git push -u orogin alina
+git push -u origin alina
+git branch
+git push
+git log
